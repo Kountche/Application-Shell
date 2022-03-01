@@ -1,0 +1,6 @@
+
+
+Options:
+	-h, -help	pour afficher les options d'aide
+	-lpy, --ldk	afficher les information hardware
+	-df		pour afficher l'utilisation du disque du systeme de fichier
